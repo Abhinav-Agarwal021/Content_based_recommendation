@@ -51,7 +51,7 @@ Recommendation App has the following features:
   
   - Trending Movies screen:
   
-![Homescreen](./Images/Trending.png "Trending Movies screen")
+![Homescreen](./Images/trending.png "Trending Movies screen")
   
   - Search Movies screen:
   
